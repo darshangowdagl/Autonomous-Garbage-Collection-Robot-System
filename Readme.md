@@ -5,6 +5,12 @@
 ## 🚀 Overview
 MARIO-COM is an autonomous robotics solution designed to automate the hazardous process of medical waste collection in hospital environments. By combining a mobile base with a robotic manipulator, the system searches, identifies, picks up, and disposes of bio-hazardous waste bins without human intervention.
 
+## 🎥 Project Demo
+
+Click the badge below to watch the robot simulation demo.
+
+[![Watch Demo](https://img.shields.io/badge/▶-Watch%20Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1JjcshXnOutQicIH9uqm_b5kncxuRkEoE/view?usp=sharing)
+
 ## 🛠️ Technical Stack
 * **Framework:** ROS2 Foxy (C++ / Python)
 * **Simulation:** Gazebo, RViz
